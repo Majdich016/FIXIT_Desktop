@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Fixit_one.iml" filepath="$PROJECT_DIR$/Fixit_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fixit_Desktop.iml" filepath="$PROJECT_DIR$/Fixit_Desktop.iml" />
     </modules>
   </component>
 </project>
